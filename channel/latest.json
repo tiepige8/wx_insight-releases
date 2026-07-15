@@ -1,9 +1,9 @@
 {
-  "version": "0.1.11",
-  "releaseNotes": "新增国内 CDN 一键更新通道；更新包强制校验 SHA256、文件大小和 exe 唯一性；更新只替换程序，不修改 records.db、配置和素材。",
-  "publishedAt": "2026-07-15T06:26:14Z",
-  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.11/channel/v0.1.11/wx_insight_windows_amd64.exe.zip",
-  "sha256": "4d35f0299555ab296b7c1fc1406c11a870fe7626fdc0fc2cd1f5373a6feb1c38",
-  "assetSize": 18232780,
-  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.11"
+  "version": "0.1.12",
+  "releaseNotes": "修复慢速网络下载更新包时 10 秒超时的问题；清单检查仍保持 10 秒，更新包下载单独允许 3 分钟；保留 CDN、SHA256 和数据保护。",
+  "publishedAt": "2026-07-15T06:37:22Z",
+  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.12/channel/v0.1.12/wx_insight_windows_amd64.exe.zip",
+  "sha256": "d54c4e49ccaf1f7bde8c9dc6d63dc0576df032bc326ffe4b21d65df5c388c157",
+  "assetSize": 18233070,
+  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.12"
 }
