@@ -1,9 +1,9 @@
 {
-  "version": "0.1.16",
-  "releaseNotes": "修复视频号页面刷新后的本地认证与 WebSocket 重连；保留指定账号搜索 scene=20 修复。指定账号列表只供预览，只有手动勾选并点击下载的视频才会保存，不会开启推荐页自动刷。",
-  "publishedAt": "2026-08-28T17:42:14Z",
-  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.16/channel/v0.1.16/wx_insight_windows_amd64.exe.zip",
-  "sha256": "8189fa78ae1aa1929bfc8dd396207209f16c8b7fd8ba06e597a0d43353d3b7d2",
-  "assetSize": 18711889,
-  "releaseURL": "https://github.com/tiepige8/wx_insight/releases/tag/v0.1.16"
+  "version": "0.1.17",
+  "releaseNotes": "指定账号下载同时合并微信实时搜索与本地历史账号结果，微信偶发返回空列表时仍可选择曾采集过且带有效 Finder ID 的账号。仍须手动勾选并点击下载，不会开启推荐页自动刷。",
+  "publishedAt": "2026-08-28T17:55:11Z",
+  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.17/channel/v0.1.17/wx_insight_windows_amd64.exe.zip",
+  "sha256": "74d2c2d3656388fb37ea9a141d3648baa189ff004d9e2fde626cdeba49b4ecb8",
+  "assetSize": 18716200,
+  "releaseURL": "https://github.com/tiepige8/wx_insight/releases/tag/v0.1.17"
 }
