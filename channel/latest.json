@@ -1,9 +1,9 @@
 {
-  "version": "0.1.14",
-  "releaseNotes": "新增“指定账号下载”：搜索并确认视频号账号，分页预览可见视频，只有手动勾选并点击下载的内容才会保存；不会定时监控账号，也不会启动推荐页自动刷。",
-  "publishedAt": "2026-08-28T17:13:26Z",
-  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.14/channel/v0.1.14/wx_insight_windows_amd64.exe.zip",
-  "sha256": "d0712f3e8bfe9f25d5ca41ccddd5c68cc7b5eaaf505bfe67e5eb1a5bd8a66772",
-  "assetSize": 18711164,
-  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.14"
+  "version": "0.1.16",
+  "releaseNotes": "修复视频号页面刷新后的本地认证与 WebSocket 重连；保留指定账号搜索 scene=20 修复。指定账号列表只供预览，只有手动勾选并点击下载的视频才会保存，不会开启推荐页自动刷。",
+  "publishedAt": "2026-08-28T17:42:14Z",
+  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.16/channel/v0.1.16/wx_insight_windows_amd64.exe.zip",
+  "sha256": "8189fa78ae1aa1929bfc8dd396207209f16c8b7fd8ba06e597a0d43353d3b7d2",
+  "assetSize": 18711889,
+  "releaseURL": "https://github.com/tiepige8/wx_insight/releases/tag/v0.1.16"
 }
