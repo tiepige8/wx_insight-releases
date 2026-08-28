@@ -1,9 +1,9 @@
 {
-  "version": "0.1.12",
-  "releaseNotes": "修复慢速网络下载更新包时 10 秒超时的问题；清单检查仍保持 10 秒，更新包下载单独允许 3 分钟；保留 CDN、SHA256 和数据保护。",
-  "publishedAt": "2026-07-15T06:37:22Z",
-  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.12/channel/v0.1.12/wx_insight_windows_amd64.exe.zip",
-  "sha256": "d54c4e49ccaf1f7bde8c9dc6d63dc0576df032bc326ffe4b21d65df5c388c157",
-  "assetSize": 18233070,
-  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.12"
+  "version": "0.1.13",
+  "releaseNotes": "新增“停止自己刷”入口，关闭启动时隐藏刷新、商品补扫、旧雷达和直播定时采集；仅自动下载 sessions.txt 白名单会话中新转发的视频号卡片；更新包同步升级主程序、监听器和启动脚本。",
+  "publishedAt": "2026-08-28T16:09:35Z",
+  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.13/channel/v0.1.13/wx_insight_windows_amd64.exe.zip",
+  "sha256": "e98cdbf55af03e20ce44875252277c5f45c87ec78f07c23f8de7b3c703defc53",
+  "assetSize": 18695671,
+  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.13"
 }
