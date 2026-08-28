@@ -1,9 +1,9 @@
 {
-  "version": "0.1.13",
-  "releaseNotes": "新增“停止自己刷”入口，关闭启动时隐藏刷新、商品补扫、旧雷达和直播定时采集；仅自动下载 sessions.txt 白名单会话中新转发的视频号卡片；更新包同步升级主程序、监听器和启动脚本。",
-  "publishedAt": "2026-08-28T16:09:35Z",
-  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.13/channel/v0.1.13/wx_insight_windows_amd64.exe.zip",
-  "sha256": "e98cdbf55af03e20ce44875252277c5f45c87ec78f07c23f8de7b3c703defc53",
-  "assetSize": 18695671,
-  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.13"
+  "version": "0.1.14",
+  "releaseNotes": "新增“指定账号下载”：搜索并确认视频号账号，分页预览可见视频，只有手动勾选并点击下载的内容才会保存；不会定时监控账号，也不会启动推荐页自动刷。",
+  "publishedAt": "2026-08-28T17:13:26Z",
+  "downloadURL": "https://cdn.jsdelivr.net/gh/tiepige8/wx_insight-releases@cdn-v0.1.14/channel/v0.1.14/wx_insight_windows_amd64.exe.zip",
+  "sha256": "d0712f3e8bfe9f25d5ca41ccddd5c68cc7b5eaaf505bfe67e5eb1a5bd8a66772",
+  "assetSize": 18711164,
+  "releaseURL": "https://github.com/tiepige8/wx_insight-releases/releases/tag/v0.1.14"
 }
